@@ -1,7 +1,7 @@
 {
-  "name": "my-repo-v1",
-  "version": "1.0.0",
-  "description": "蓝绿发布演示项目 - 旧版本",
+  "name": "my-repo-v2",
+  "version": "2.0.0",
+  "description": "蓝绿发布演示项目 - 新版本",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
