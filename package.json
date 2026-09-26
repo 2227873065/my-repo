@@ -1,0 +1,12 @@
+{
+  "name": "my-repo-v1",
+  "version": "1.0.0",
+  "description": "蓝绿发布演示项目 - 旧版本",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
